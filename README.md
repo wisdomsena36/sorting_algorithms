@@ -36,6 +36,6 @@
 | 11. Quick Sort - Hoare Partition scheme | [SOON](./) |
 | 12. Dealer | [SOON](./) |
 
-### Authors
-##### Wisdom Sena
-##### Mabel Zigah
+## Authors
+- Wisdom Sena
+- Mabel Zigah
